@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hello, I'm sangmin415, an Electronics Engineering Student! 👋
 
-<!--
-**sangmin415/sangmin415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a third-year undergraduate student majoring in **Electronics Engineering**.
+I find great joy in exploring new technologies and knowledge, and continuously learning and growing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 My Areas of Interest
+
+I have a deep interest in the **semiconductor field**, specifically focusing on the design and application of **power semiconductors**. I aspire to contribute to technologies related to future energy efficiency.
+
+---
+
+### 🛠️ My Current Tech Stack
+
+* **Programming Languages:** Python, C
+* **Hardware Description Language:** Verilog HDL
+* **Version Control:** Git & GitHub
+
+---
+
+### 🌱 Future Goals
+
+* To further deepen my expertise in the power semiconductor field.
+* To gain experience in solving real-world problems through various projects.
+* I plan to consistently document and share my learning journey and project outcomes here on GitHub.
+
+---
+
+### 📧 Contact
+
+Feel free to reach out if you have any questions or would like to discuss anything!
+
+* [Email](smpdp02@gmail.com)
